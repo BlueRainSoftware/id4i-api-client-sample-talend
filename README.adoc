@@ -29,7 +29,7 @@ image::img/id4i-talend-metadata.png[]
 To be able to connect to ID4i with an API client, you need to register and set up an API key for
 your application first. See  https://backend.id4i.de/docs/reference/en/reference.html#_preparation.
 
-Using this key, you can sign https://jwt.io/[JWTs] to send as `Authorization` header `Bearer`token for
+Using this key, you can sign https://jwt.io/[JWTs] to send as `Authorization` header `Bearer` token for
 subsequent requests against the ID4i API.
 
 Please refer to http://id4i.de on how to register and https://backend.id4i.de/docs/reference/en/reference.html for additional documentation.
